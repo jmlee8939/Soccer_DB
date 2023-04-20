@@ -1,3 +1,2 @@
-select * from user_tables;
-select * from "match_PL_2122";
-select home from "match_PL_2122";ß
+select * from "PL_player_defensive_2023"
+where rownum < 1;
